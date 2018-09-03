@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: 55e0084fc83ba0a47b21b9ee9532badc
+timeCreated: 1500678515
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Owned_Empty Lot Sprite sheet_0
+    21300002: Owned_Empty Lot Sprite sheet_1
+    21300004: Owned_Empty Lot Sprite sheet_2
+    21300006: Owned_Empty Lot Sprite sheet_3
+    21300008: Owned_Empty Lot Sprite sheet_4
+    21300010: Owned_Empty Lot Sprite sheet_5
+    21300012: Owned_Empty Lot Sprite sheet_6
+    21300014: Owned_Empty Lot Sprite sheet_7
+    21300016: Owned_Empty Lot Sprite sheet_8
+    21300018: Owned_Empty Lot Sprite sheet_9
+    21300020: Owned_Empty Lot Sprite sheet_10
+    21300022: Owned_Empty Lot Sprite sheet_11
+    21300024: Owned_Empty Lot Sprite sheet_12
+    21300026: Owned_Empty Lot Sprite sheet_13
+    21300028: Owned_Empty Lot Sprite sheet_14
+    21300030: Owned_Empty Lot Sprite sheet_15
+    21300032: Owned_Empty Lot Sprite sheet_16
+    21300034: Owned_Empty Lot Sprite sheet_17
+    21300036: Owned_Empty Lot Sprite sheet_18
+    21300038: Owned_Empty Lot Sprite sheet_19
+    21300040: Owned_Empty Lot Sprite sheet_20
+    21300042: Owned_Empty Lot Sprite sheet_21
+    21300044: Owned_Empty Lot Sprite sheet_22
+    21300046: Owned_Empty Lot Sprite sheet_23
+    21300048: Owned_Empty Lot Sprite sheet_24
+    21300050: Owned_Empty Lot Sprite sheet_25
+    21300052: Owned_Empty Lot Sprite sheet_26
+    21300054: Owned_Empty Lot Sprite sheet_27
+    21300056: Owned_Empty Lot Sprite sheet_28
+    21300058: Owned_Empty Lot Sprite sheet_29
+    21300060: Owned_Empty Lot Sprite sheet_30
+    21300062: Owned_Empty Lot Sprite sheet_31
+    21300064: Owned_Empty Lot Sprite sheet_32
+    21300066: Owned_Empty Lot Sprite sheet_33
+    21300068: Owned_Empty Lot Sprite sheet_34
+    21300070: Owned_Empty Lot Sprite sheet_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1535
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1535
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1535
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1535
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1535
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1535
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1535
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1278
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1278
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1278
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1278
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1278
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1278
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1278
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1021
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1021
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1021
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1021
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1021
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1021
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 764
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 764
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 764
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 764
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 764
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 507
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 507
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Owned_Empty Lot Sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 507
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

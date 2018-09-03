@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8409e88dff7404c418d7c019154ed77a, type: 3}
+  m_Name: Steel
+  m_EditorClassIdentifier: 
+  _cost: 20000
+  _unlocked: 0
+  _time: 120
+  _name: Steel
+  _description: Unlocks Construction business, Gun Manufacturer
+  _itemIcon: {fileID: 21300000, guid: 14ee17f6607fd7e47a558044f71d7ee3, type: 3}
+  _researchCost: 40
+  _dependentItems: []
+  _dependentBuildings:
+  - {fileID: 114277015051774936, guid: 4d278b4edbf3ead4bbf087734cb6b0bd, type: 2}
